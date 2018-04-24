@@ -3,7 +3,9 @@
 
 # Log file
 *.log
-
+*.git
+*.nogit
+*.idea
 # BlueJ files
 *.ctxt
 
